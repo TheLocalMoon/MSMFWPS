@@ -1,49 +1,49 @@
 noggin=Noggin
-noggin_bio=Noggin bio
+noggin_bio=bum bum bam bum bum bam bum
 
 lockrock=Lockrock
-lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, one thing you may not know about this monster is that it has perfect hygiene! You may think how without any arms, but with the help with a bopells floating hand it can have the best teeth cleaning in the entire island!
+lockrock_bio=its a lock you open it with a key
 
 lockrock_rare=Rare Lockrock
-lockrock_rare_bio=A company once tried to turn all monsters on Key Island into robots... only one succeeded, and you have... Rare Lockrock... They were going to have 2 arms and 2 legs but the original Lockrock attacked the company-
+lockrock_rare_bio=its a rare lock you must open it with a lock that you must open with a key
 
 bopell=Bopell
-bopell_bio=Welcome to the monster choir, where all the best monsters are here to sing..... wait... why is bopell here? Do you even know them anyways? Formed when a stone is shaved eyeholes, another stone is shaped to form a hand, and with a bit of magic we get bopell!
+bopell_bio=minecraft villager
 
 bopell_rare=Rare Bopell
-bopell_rare_bio=Rare Bopells are often very caring for their babies, but not when playing! Instead of a bell, they knock their nests with their children inside, luckily their children don't mind.
+bopell_rare_bio=skibidi minecraft villager
 
 bouldin=Bouldin
-bouldin_bio=Bouldin bio
+bouldin_bio=sisyphus
 
 didgeridoo=Didgeridoo
-didgeridoo_bio=In a newely discovered world, sometimes you have to cut corners. That's why Didgeridoo is named after his instrument. Originally being unable to fly, in case of an emergency, Didgeridoos have evolved to have flying wings!
+didgeridoo_bio=dandidoo 2.0
 
 triturtoud=Triturtoud
-triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
+triturtoud_bio=ethereal workshoppp!!!11!
 
 triturtoud_rare=Rare Triturtoud
-triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly, the rare is the complete opposite! Instead of clouds, there are thunderclouds, the result of construction not being finished whilst triturtoud was walking through the island with it's eyes closed, and falling OFF the island! It took 7 hours for the monsters to bring rare triturtoud back.
+triturtoud_rare_bio=ni-
 
 glockenbopp=Glockenbopp
-glockenbopp_bio=This monster is a close relative to the bopell on Key Island, only difference is that.... why am I even saying this? It is the complete opposite!
+glockenbopp_bio=glockwork
 
 stomper=Stomper
-stomper_bio=The starter of Cartoon Island, how did they get here? Only the monster gods know. Anyways, this is a weird monster, not getting up to eat or anything, he just... sits there..
+stomper_bio=candy island frfr
 
 stomper_rare=Rare Stomper
-stomper_rare_bio=Unlike the common stomper, rare stompers are environmentalists. They don't jump up and down, it kills the grass! Instead, they opt to use drums.
+stomper_rare_bio=NOT candy island frfr
 
 vhenshun=Vhenshun
-vhenshun_bio=Inside the ethereal workshop lied a certain Vhenshun. He was getting bored of being encased inside it's home collosal, so with the help of a few other vhenshuns, they wiggled outside of the ethereal collosal eye, but accidentally fell into the sea! In a state of chaos, a portal emerged, giving the scared monsters a second chance. They went through, ending up in the forgotten worlds.
+vhenshun_bio=ethereal workshoop!J!KIjm!Kim!Ojnqjisfnjxdujhkfdhjoudjhpmfcg
 
-string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
+string_unfinishedIsland=stfu stupid bitchass nig-
 
-island_MainGame=Key Island
+island_MainGame=Gyatt Island
 island_MainGame_bio=TBA
-island_SoftIsland=Soft Island
+island_SoftIsland=Gum Island
 island_SoftIsland_bio=TBA
-island_MushroomIsle=Mushroom Isle
+island_MushroomIsle=Cordelius Island
 island_MushroomIsle_bio=TBA
 island_ArcaneIsland=Arcane Island
 island_ArcaneIsland_bio=TBA
